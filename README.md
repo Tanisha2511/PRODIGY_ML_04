@@ -11,7 +11,6 @@ This project aims to develop a deep learning model that can recognize and classi
 - Keras 2.4 or higher
 
 ## Installation
-- Clone the repository: git clone https://github.com/your-username/hand-gesture-recognition.git
 - Install the required packages: pip install -r requirements.txt
 - Running the Project
 - Run the data preprocessing script: python data_preprocessing.py
